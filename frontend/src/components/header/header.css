@@ -1,0 +1,14 @@
+.navbar-brand{
+    font-size: 35px;
+    font-weight: bold;
+}
+.nav-item{
+    background-color: beige;
+}
+mark{
+    background-color: rgb(121, 206, 84 ,0.8);
+    padding: 5px;
+    color: white;
+    font-size: 10px !important;
+    border-radius: 7px;
+}

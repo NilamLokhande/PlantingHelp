@@ -1,0 +1,59 @@
+.loginContainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.leftSide {
+    background-image: url('../../assets/login.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.rightSide {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.loginBox {
+    grid-column: 2/4;
+    margin-top: 12rem;
+}
+
+.login-header{
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.user-form{
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+
+.loginField{
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid gray;
+    width: 100%;
+}
+
+.error-msg{
+    color: red;
+    text-align: left;
+    font-size: 14px;
+}
+
+.LoginBtn{
+    width: 100%;
+    border-radius: 5px;
+    background-color: #b8f078;
+    color: white;
+    padding: 0.5rem;
+    border: none;
+}
+
+.LoginBtn:hover{
+    background-color: #a9ed5a;
+    color: white;
+}

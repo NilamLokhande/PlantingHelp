@@ -1,0 +1,16 @@
+.carousel_img {
+    height: 500px;
+    background: rgba(0, 0, 0, 0.);
+}
+.line{
+    height: 7px;
+    background-color: rgb(121, 206, 84);
+    width: 100%;}
+
+mark{
+    background-color: rgb(121, 206, 84 ,0.8);
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    border-radius: 7px;
+}

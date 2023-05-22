@@ -1,0 +1,9 @@
+.tree_btn{
+    font-size: 16px;
+    color: white;
+    background-color: rgb(141, 222, 70);
+    border: none;
+    border-radius: 5px;
+    padding: 5px 0px;
+    width: 100%;
+}

@@ -1,0 +1,20 @@
+.card_btn{
+    font-size: 16px !important;
+    color: white;
+    background-color: rgb(121, 206, 84);
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100%;
+}
+.ngodata{
+    font-size: 13px;
+}
+.ngodataloc{
+    font-size: 15px;
+}
+.ngotitle{
+    color:brown;
+    font-weight: bold;
+    font-size: 20px;
+}

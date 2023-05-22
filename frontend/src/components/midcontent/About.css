@@ -1,0 +1,18 @@
+.about_block {
+    height: 450px;
+    background-color: beige;
+}
+.heading{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 30px;
+    font-size: 30px;
+}
+.content{
+    font-family:'Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 30px;
+    color: black;
+    font-size: 18px;
+}

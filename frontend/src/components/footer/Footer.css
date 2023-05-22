@@ -1,0 +1,16 @@
+.footer-links a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .social-icons {
+    font-size: 1.4rem;
+    margin-right: 10px;
+    color: #fff;
+  }
+  .footer-icons {
+    background-color: #fff;
+    padding: 8px;
+    border-radius: 50%;
+    color: rgb(143, 114, 103);
+    font-size: 1.5rem;
+  }
